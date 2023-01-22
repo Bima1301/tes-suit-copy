@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.nav-title {
+  color: red;
+}
+
+.home .myswiper {
+  width: 100%;
+}
+.home .myswiper .slide {
+  width: 100%;
+  height: 100vh;
+}
+.home .myswiper .slide h3 {
+  padding: 20px;
+  width: 650px;
+  position: absolute;
+  color: white;
+  bottom: 150px;
+  left: 200px;
+}/*# sourceMappingURL=style.css.map */
